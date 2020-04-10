@@ -1,0 +1,75 @@
+
+.Home{
+  text-align: center;
+  font-size: 2rem;
+  transform: translateY(-10rem);
+ 
+}
+h2 {
+  color: white;
+  line-height: 10vh;
+}
+h3 {
+  color: #1b262c;
+}
+.Card {
+  cursor: pointer;
+  width: 60%;
+  color: #000839;
+  text-shadow: black;
+  background-color: #FAACA8;
+  background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);
+  transform: translateY(-10rem);
+
+}
+.modal-ku {
+  width: 750px;
+}
+
+.mdl{
+  color: #442727;
+  }
+
+  b{
+    color: "#ea6227";
+  }
+
+  .header{
+    background-color: #08AEEA;
+    background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+}
+
+.body{
+  background-color: #FAACA8;
+  background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);
+  text-align: center;
+  padding: 2rem;
+}
+
+li{
+  text-decoration: none;
+  display: grid;
+  margin: 1rem;
+  background-color: #FFE53B;
+  background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
+  width: 45rem;
+  border-radius: 15rem;
+  
+
+}
+
+.button{
+  background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%); 
+}
+
+
+
+
+h5{
+  border: 0.3rem  solid #2b580c !important;
+  width: 25rem;
+  padding: 0.5rem;
+  transform: translateX(12rem);
+  border-radius: 0.8rem;
+}
