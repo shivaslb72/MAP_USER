@@ -4,7 +4,7 @@
 
 # Description
 
-An app designed for showing the user details and active periods of the user built using react, redux, react-big-calendar and bootstrap for designing
+An app designed for showing the user details and active periods of the user built using react, redux, react-big-calendar and bootstrap for designing.importing JSON data from the Reducers.
 
 # Available Scripts
 
